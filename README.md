@@ -1,24 +1,99 @@
-<h1 align="center">Hi 👋, I'm Anagha KTP</h1>
-<h3 align="center">A passionate AI/ML DEVELOPER from India</h3>
+<h1 align="center">👋 Hey there, I'm <span style="color:#4db6ac;">Anagha K T P</span></h1>
+<h3 align="center">🚀 Passionate AI/ML Developer | Tech Explorer | Innovator from India 🇮🇳</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anaghaktp&label=Profile%20views&color=0e75b6&style=flat" alt="anaghaktp" /> </p>
-
-- 🔭 I’m currently working on **Gargage Classification**
-
-- 🌱 I’m currently learning **AIML,Php,React**
-
-- 📫 How to reach me **anaghaktp@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/anaghaktp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anaghaktp" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anaghaktp&label=Profile%20views&color=4db6ac&style=flat-square" alt="anaghaktp" />
+  <img src="https://img.shields.io/github/followers/anaghaktp?label=Followers&style=social" alt="followers"/>
+  <img src="https://img.shields.io/github/stars/anaghaktp?label=Stars&style=social" alt="stars"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anaghaktp&show_icons=true&locale=en&layout=compact" alt="anaghaktp" /></p>
+### 🌟 About Me
+- 🔭 Currently working on **Garbage Classification using AI**
+- 🌱 Exploring **AI/ML, PHP, and React**
+- 💡 Passionate about **building intelligent systems that solve real-world problems**
+- 🎯 Focused on **Computer Vision & Deep Learning**
+- 💬 Ask me about **Machine Learning, Python, or Flutter**
+- 📫 Reach me at: **anaghaktp@gmail.com**
+- ⚡ Fun fact: *I believe every dataset tells a story waiting to be decoded.*
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anaghaktp&show_icons=true&locale=en" alt="anaghaktp" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anaghaktp&" alt="anaghaktp" /></p>
+### 🌐 Connect With Me
+<p align="left">
+  <a href="https://linkedin.com/in/anaghaktp" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:anaghaktp@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/anaghaktp" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+### 🧠 Languages and Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,pytorch,flutter,react,php,mysql,mongodb,git,linux,aws,gcp,postman,html,css,java,c,django,opencv,pandas,seaborn" />
+</p>
+
+---
+
+### ⚙️ GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anaghaktp&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaghaktp&layout=compact&theme=react&hide_border=true" alt="Top Languages" height="180em" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anaghaktp&theme=react&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anaghaktp&theme=onestar&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+</p>
+
+---
+
+### ✨ Quote of the Day
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote"/>
+</p>
+
+---
+
+### 🧩 Fun Stuff
+- 🌍 Currently exploring **AI in sustainability & waste management**
+- 🧑‍💻 Working on side projects involving **NLP + Mobile AI**
+- ☕ Coffee + Code = Magic
+- 💭 Motto: *“Dream in algorithms, build in logic, live in curiosity.”*
+
+---
+
+### 📊 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anaghaktp&theme=react-dark&bg_color=20232a&hide_border=true" alt="Activity Graph"/>
+</p>
+
+---
+
+### 🧠 Badges & Achievements
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anaghaktp&theme=react" alt="Profile Summary"/>
+</p>
+
+---
+
+### 💫 Keep Learning, Keep Building.
+<p align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150">
+</p>
+
+---
+
