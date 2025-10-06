@@ -54,13 +54,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anaghaktp&theme=onestar&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
-</p>
-
----
-
 ### ✨ Quote of the Day
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote"/>
