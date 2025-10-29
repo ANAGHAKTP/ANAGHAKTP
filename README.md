@@ -1,92 +1,81 @@
-<h1 align="center">👋 Hey there, I'm <span style="color:#4db6ac;">Anagha K T P</span></h1>
-<h3 align="center">🚀 Passionate AI/ML Developer | Tech Explorer | Innovator from India 🇮🇳</h3>
+<!-- 🌐 Minimal & Interactive GitHub Profile — by Anagha K T P -->
+
+<h1 align="center">👋 Hey, I'm <span style="color:#4db6ac;">Anagha K T P</span></h1>
+<h3 align="center">🚀 AI/ML Developer | 🌱 Tech Explorer | 💡 Innovator from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anaghaktp&label=Profile%20views&color=4db6ac&style=flat-square" alt="anaghaktp" />
-  <img src="https://img.shields.io/github/followers/anaghaktp?label=Followers&style=social" alt="followers"/>
-  <img src="https://img.shields.io/github/stars/anaghaktp?label=Stars&style=social" alt="stars"/>
+  <img src="https://komarev.com/ghpvc/?username=anaghaktp&label=Profile%20Views&color=4db6ac&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/anaghaktp?label=Followers&style=for-the-badge&color=4db6ac" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/anaghaktp?label=Stars&style=for-the-badge&color=4db6ac" alt="Stars"/>
 </p>
 
 ---
 
 ### 🌟 About Me
-- 🔭 Currently working on **Garbage Classification using AI**
-- 🌱 Exploring **AI/ML, PHP, and React**
-- 💡 Passionate about **building intelligent systems that solve real-world problems**
-- 🎯 Focused on **Computer Vision & Deep Learning**
-- 💬 Ask me about **Machine Learning, Python, or Flutter**
-- 📫 Reach me at: **anaghaktp@gmail.com**
-- ⚡ Fun fact: *I believe every dataset tells a story waiting to be decoded.*
+💭 *Turning data into decisions & ideas into code.*
+
+- 🔭 Working on **AI-Powered Waste Classification**
+- 🌱 Learning **Deep Learning, NLP, and React**
+- 💡 Passionate about **AI for Sustainability**
+- 💬 Ask me about **Python • Machine Learning • Flutter**
+- 📫 Reach me: **[anaghaktp@gmail.com](mailto:anaghaktp@gmail.com)**
+- ⚡ Fun Fact: *Every dataset is a story in disguise.*
 
 ---
 
 ### 🌐 Connect With Me
-<p align="left">
-  <a href="https://linkedin.com/in/anaghaktp" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:anaghaktp@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://github.com/anaghaktp" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" alt="GitHub" />
-  </a>
+<p align="center">
+  <a href="https://linkedin.com/in/anaghaktp" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
+  <a href="mailto:anaghaktp@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
+  <a href="https://github.com/anaghaktp" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="45"/></a>
 </p>
 
 ---
 
-### 🧠 Languages and Tools
+### ⚙️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,pytorch,flutter,react,php,mysql,mongodb,git,linux,aws,gcp,postman,html,css,java,c,django,opencv,pandas,seaborn" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,flutter,react,php,mysql,mongodb,git,linux,aws,gcp,opencv,pandas,seaborn" />
 </p>
 
 ---
 
-### ⚙️ GitHub Analytics
+### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anaghaktp&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaghaktp&layout=compact&theme=react&hide_border=true" alt="Top Languages" height="180em" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anaghaktp&theme=react&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anaghaktp&show_icons=true&theme=react&hide_border=true&count_private=true" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaghaktp&layout=compact&theme=react&hide_border=true" height="180em"/>
 </p>
 
 ---
+
+### 🧠 Code Frequency & Contributions
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anaghaktp&theme=react-dark&bg_color=20232a&hide_border=true&area=true&custom_title=Contribution%20Graph" width="95%" alt="Contribution Graph"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=anaghaktp&theme=react&hide_border=true&background=20232a&ring=4db6ac&fire=4db6ac&currStreakLabel=4db6ac" alt="GitHub Streak Stats"/>
+</p>
+
 
 ### ✨ Quote of the Day
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
 
 ---
 
-### 🧩 Fun Stuff
-- 🌍 Currently exploring **AI in sustainability & waste management**
-- 🧑‍💻 Working on side projects involving **NLP + Mobile AI**
-- ☕ Coffee + Code = Magic
-- 💭 Motto: *“Dream in algorithms, build in logic, live in curiosity.”*
-
----
-
-### 📊 Activity Graph
+### 🌈 Fun Corner
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anaghaktp&theme=react-dark&bg_color=20232a&hide_border=true" alt="Activity Graph"/>
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card"/>
 </p>
 
----
-
-### 🧠 Badges & Achievements
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anaghaktp&theme=react" alt="Profile Summary"/>
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="200" />
 </p>
 
 ---
 
-### 💫 Keep Learning, Keep Building.
+### 💫 “Dream in algorithms, build in logic, live in curiosity.”  
 <p align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 </p>
-
----
-
