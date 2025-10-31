@@ -14,8 +14,8 @@
 ### 🌟 About Me
 💭 *Turning data into decisions & ideas into code.*
 
-- 🔭 Working on **AI-Powered Waste Classification**
-- 🌱 Learning **Deep Learning, NLP, and React**
+- 🔭 Working on **real-world implementations of machine learning techniques**
+- 🌱 Learning **Deep Learning, NLP, and DL**
 - 💡 Passionate about **AI for Sustainability**
 - 💬 Ask me about **Python • Machine Learning • Flutter**
 - 📫 Reach me: **[anaghaktp@gmail.com](mailto:anaghaktp@gmail.com)**
