@@ -47,6 +47,15 @@
 
 ---
 
+<h2 align="center" style="color:#00FFFF;">🏆 Holopin Badge Board</h2>
+
+<p align="center">
+  <a href="https://www.holopin.io/@anaghaktp" target="_blank">
+    <img src="https://holopin.me/anaghaktp" alt="@anaghaktp's Holopin board" width="80%" style="border-radius: 15px; box-shadow: 0 0 15px #00FFFF;"/>
+  </a>
+</p>
+
+
 ### 🧠 Code Frequency & Contributions
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anaghaktp&theme=react-dark&bg_color=20232a&hide_border=true&area=true&custom_title=Contribution%20Graph" width="95%" alt="Contribution Graph"/>
