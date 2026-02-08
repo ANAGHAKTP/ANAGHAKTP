@@ -12,14 +12,14 @@
 ---
 
 ### 🌟 About Me
-💭 *Turning data into decisions & ideas into code.*
+💭 *Turning data into decisions & ideas into intelligent systems.*
 
-- 🔭 Working on **real-world implementations of machine learning techniques**
-- 🌱 Learning **Deep Learning, NLP, and DL**
-- 💡 Passionate about **AI for Sustainability**
+- 🔭 Working on **real-world implementations of Machine Learning models**
+- 🌱 Learning **Deep Learning & Natural Language Processing (NLP)**
+- 💡 Passionate about **AI for Sustainability and Social Impact**
 - 💬 Ask me about **Python • Machine Learning • Flutter**
 - 📫 Reach me: **[anaghaktp@gmail.com](mailto:anaghaktp@gmail.com)**
-- ⚡ Fun Fact: *Every dataset is a story in disguise.*
+- ⚡ Fun Fact: *Every dataset hides a story waiting to be told.*
 
 ---
 
@@ -55,6 +55,7 @@
   </a>
 </p>
 
+---
 
 ### 🧠 Code Frequency & Contributions
 <p align="center">
@@ -65,6 +66,7 @@
   <img src="https://streak-stats.demolab.com?user=anaghaktp&theme=react&hide_border=true&background=20232a&ring=4db6ac&fire=4db6ac&currStreakLabel=4db6ac" alt="GitHub Streak Stats"/>
 </p>
 
+---
 
 ### ✨ Quote of the Day
 <p align="center">
@@ -84,7 +86,7 @@
 
 ---
 
-### 💫 “Dream in algorithms, build in logic, live in curiosity.”  
+### 💫 “Dream in algorithms, build in logic, live in curiosity.”
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 </p>
