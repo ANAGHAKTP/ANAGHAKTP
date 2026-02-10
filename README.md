@@ -80,10 +80,6 @@
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card"/>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="200" />
-</p>
-
 ---
 
 ### 💫 “Dream in algorithms, build in logic, live in curiosity.”
