@@ -59,7 +59,7 @@
 
 ### 🧠 Code Frequency & Contributions
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anaghaktp&theme=react-dark&bg_color=20232a&hide_border=true&area=true&custom_title=Contribution%20Graph" width="95%" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anaghaktp&theme=react-dark&bg_color=20232a&hide_border=true&area=true&custom_title=Contribution%20Graph" width="96%" alt="Contribution Graph"/>
 </p>
 
 <p align="center">
