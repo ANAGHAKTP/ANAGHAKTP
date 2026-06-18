@@ -82,7 +82,7 @@
 ---
 
 ### 📚 Certifications & Learning
-- 🎯 **In Progress:** DeepLearning.AI AI Engineer Professional Certificate (Coursera)
+- 🎯 **Planned:** DeepLearning.AI AI Engineer Professional Certificate (Coursera)
 - ✅ **AI Safety & Literacy:** Completed advanced training on prompt injection, memory in agentic systems, and context windows
 
 ---
