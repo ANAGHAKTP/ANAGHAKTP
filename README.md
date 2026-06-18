@@ -76,7 +76,6 @@
 ---
 
 ### 🎯 Experience & Internships
-- **Freelance AI Developer** — Deccan AI *(Ongoing)*
 - **Virtual Internships:** Hepro AI | Vodafone Idea Foundation | Edunet Foundation/IBM SkillBuild | Codec Technologies
 - **4+ Portfolio Projects** in ML, GenAI, and full-stack development
 
@@ -84,7 +83,6 @@
 
 ### 📚 Certifications & Learning
 - 🎯 **In Progress:** DeepLearning.AI AI Engineer Professional Certificate (Coursera)
-- 🎯 **Planned:** Google Cloud Professional ML Engineer Certification
 - ✅ **AI Safety & Literacy:** Completed advanced training on prompt injection, memory in agentic systems, and context windows
 
 ---
