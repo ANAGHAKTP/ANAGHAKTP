@@ -82,7 +82,7 @@
 ---
 
 ### 📚 Certifications & Learning
-- 🎯 **Planned:** DeepLearning.AI AI Engineer Professional Certificate (Coursera)
+- 🎯 **In Progress:** DeepLearning.AI AI Engineer Professional Certificate (Coursera)
 - ✅ **AI Safety & Literacy:** Completed advanced training on prompt injection, memory in agentic systems, and context windows
 
 ---
@@ -112,13 +112,22 @@
 
 ---
 
-### 🧠 Contribution Activity
+### 🧠 Contribution Activity & Heatmap
+
+#### 📊 Interactive Contribution Visualization
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anaghaktp&theme=react-dark&bg_color=20232a&hide_border=true&area=true&custom_title=Contribution%20Graph" width="96%" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anaghaktp&theme=react-dark&bg_color=20232a&hide_border=true&area=true&custom_title=Contribution%20Activity%20Over%20Time&color=4db6ac" width="96%" alt="Contribution Activity Graph"/>
 </p>
 
+#### 🔥 Contribution Heatmap & Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=anaghaktp&theme=react&hide_border=true&background=20232a&ring=4db6ac&fire=4db6ac&currStreakLabel=4db6ac" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anaghaktp&show_icons=true&theme=react&hide_border=true&count_private=true" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=anaghaktp&theme=react&hide_border=true&background=20232a&ring=4db6ac&fire=4db6ac&currStreakLabel=4db6ac" width="48%"/>
+</p>
+
+#### 📈 Daily Contribution Heatmap
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaghaktp&layout=compact&theme=react&hide_border=true&card_width=445" width="96%" alt="Top Languages"/>
 </p>
 
 ---
