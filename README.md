@@ -142,25 +142,14 @@
 
 ---
 
-## 📊 **GitHub Analytics**
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anaghaktp&show_icons=true&theme=react&hide_border=true&count_private=true&bg_color=0d1117&title_color=4db6ac&text_color=c9cacc)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anaghaktp&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=4db6ac&text_color=c9cacc)
-
-</div>
-
----
-
 ## 🎯 **Experience & Internships**
 
 <table>
 <tr>
 <td width="60%">
 
-**Virtual Internships:**
+**Current & Past Work:**
+- 💼 **Deccan AI** — Freelance AI Developer *(Ongoing)*
 - 🎓 **Hepro AI** — AI/ML Development
 - 🎓 **Vodafone Idea Foundation** — Data Analytics
 - 🎓 **Edunet Foundation/IBM SkillBuild** — AI/ML & Frontend
